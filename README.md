@@ -1,3 +1,3 @@
-DDW Design Thinking Project III
+## DDW Design Thinking Project III
 
-This projects aims to address food security issues by predicting the yield for various crops based on the soil conditions through the multiple linear regression model developed. 
+#### This projects aims to develop a multiple linear regression model to address food security issues. The model will predict the yield for various crops based on the soil conditions, hence potentially increasing supply of crops.
